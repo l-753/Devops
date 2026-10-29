@@ -1,3 +1,5 @@
 node_modules
-npm-debug.log
+my-image.tar
 .git
+.github
+npm-debug.log
